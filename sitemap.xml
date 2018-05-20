@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://sistema.com/index.html</loc>
+    <lastmod>2018-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sistema.com/images/ckturistando-599318-unsplash.jpg</image:loc>
+      <image:caption>Mulher de costas olhando a cidade</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistema.com/images/cube-3322835_1920.jpg</image:loc>
+      <image:caption>Cubos</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistema.com/images/jpg118x118.png</image:loc>
+      <image:caption>Símbolo JPG</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistema.com/images/gif.png</image:loc>
+      <image:caption>Símbolo GIF</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistema.com/images/jpeg.png</image:loc>
+      <image:caption>Símbolo JPEG</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistema.com/images/anima%C3%A7%C3%A3o.png</image:loc>
+      <image:caption>Símbolo Animação</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistema.com/images/png.png</image:loc>
+      <image:caption>Símbolo PNG</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistema.com/images/v%C3%ADdeo.png</image:loc>
+      <image:caption>Símbolo Vídeo</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sistema.com/esqueceu-a-senha.html</loc>
+    <lastmod>2018-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sistema.com/entrar.html</loc>
+    <lastmod>2018-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sistema.com/cadastro.html</loc>
+    <lastmod>2018-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sistema.com/p%C3%A1gina-em-constru%C3%A7%C3%A3o.html</loc>
+    <lastmod>2018-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sistema.com/confirma%C3%A7%C3%A3o-do-e-mail.html</loc>
+    <lastmod>2018-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://sistema.com/metade-funcionando.html</loc>
+    <lastmod>2018-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sistema.com/images/jpg.png</image:loc>
+      <image:caption>Símbolo JPG</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistema.com/images/thought-catalog-668984-unsplash158x118.jpg</image:loc>
+      <image:caption>Mulher lendo livro sentada no sofá</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sistema.com/donwload.html</loc>
+    <lastmod>2018-05-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://sistema.com/images/estrela2-5.png</image:loc>
+      <image:caption>estrelas para avaliação</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://sistema.com/images/thought-catalog-668984-unsplash.jpg</image:loc>
+      <image:caption>Mulher lendo livro no sofá</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://sistema.com/assets/8.png</loc>
+    <lastmod>2018-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

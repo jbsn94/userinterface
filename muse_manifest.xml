@@ -1,0 +1,90 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sistema.com" resolutions="1x" timestamp="1526693941906">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_b-master.css" crc="3879185510" ref="esqueceu-a-senha:metade-funcionando:confirmação-do-e-mail:entrar:donwload:página-em-construção:cadastro"/>
+    <file name="master_a-master.css" crc="503761994" ref="index"/>
+    <file name="esqueceu-a-senha.css" crc="311783624" ref="esqueceu-a-senha"/>
+    <file name="index.css" crc="4273985705" ref="index"/>
+    <file name="metade-funcionando.css" crc="4243446386" ref="metade-funcionando"/>
+    <file name="confirma__o-do-e-mail.css" crc="3918666578" ref="confirmação-do-e-mail"/>
+    <file name="entrar.css" crc="4077512344" ref="entrar"/>
+    <file name="donwload.css" crc="7811385" ref="donwload"/>
+    <file name="p_gina-em-constru__o.css" crc="475322238" ref="página-em-construção"/>
+    <file name="cadastro.css" crc="16168543" ref="cadastro"/>
+  </folder>
+  <folder name="assets">
+    <file name="8.png" crc="127331616" seo="true" mt="1522343203000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:entrar:cadastro:esqueceu-a-senha:confirmação-do-e-mail:página-em-construção:metade-funcionando:donwload"/>
+    <file name="museutils.js" crc="340535759" ref="index:entrar:cadastro:esqueceu-a-senha:confirmação-do-e-mail:página-em-construção:metade-funcionando:donwload"/>
+    <file name="whatinput.js" crc="86476730" ref="index:entrar:cadastro:esqueceu-a-senha:confirmação-do-e-mail:página-em-construção:metade-funcionando:donwload"/>
+    <file name="museconfig.js" crc="310584261" ref="index:entrar:cadastro:esqueceu-a-senha:confirmação-do-e-mail:página-em-construção:metade-funcionando:donwload"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:metade-funcionando:donwload"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:entrar:cadastro:esqueceu-a-senha:confirmação-do-e-mail:página-em-construção:metade-funcionando:donwload"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:entrar:cadastro:esqueceu-a-senha:confirmação-do-e-mail:página-em-construção:metade-funcionando:donwload"/>
+    <file name="require.js" crc="7928878" ref="index:entrar:cadastro:esqueceu-a-senha:confirmação-do-e-mail:página-em-construção:metade-funcionando:donwload"/>
+  </folder>
+  <folder name="images">
+    <file name="ckturistando-599318-unsplash.jpg" crc="4202647724" seo="true" ref="index">
+      <caption webpage="index" alt="Mulher de costas olhando a cidade"/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="cube-3322835_1920.jpg" crc="80417004" seo="true" ref="index">
+      <caption webpage="index" alt="Cubos"/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1210-6.png" crc="4132230332" ref="index"/>
+    <file name="u1290-6.png" crc="245643161" ref="index"/>
+    <file name="jpg118x118.png" crc="262685612" seo="true" ref="index">
+      <caption webpage="index" alt="Símbolo JPG"/>
+    </file>
+    <file name="gif.png" crc="4281277816" seo="true" ref="index">
+      <caption webpage="index" alt="Símbolo GIF"/>
+    </file>
+    <file name="jpeg.png" crc="4285688849" seo="true" ref="index">
+      <caption webpage="index" alt="Símbolo JPEG"/>
+    </file>
+    <file name="animação.png" crc="3936352638" seo="true" ref="index">
+      <caption webpage="index" alt="Símbolo Animação"/>
+    </file>
+    <file name="png.png" crc="158448671" seo="true" ref="index">
+      <caption webpage="index" alt="Símbolo PNG"/>
+    </file>
+    <file name="vídeo.png" crc="3892323990" seo="true" ref="index">
+      <caption webpage="index" alt="Símbolo Vídeo"/>
+    </file>
+    <file name="u1369-5.png" crc="4109394499" ref="index"/>
+    <file name="u1622-8.png" crc="4156680642" ref="index"/>
+    <file name="u1941-4.png" crc="323356911" ref="index"/>
+    <file name="u449-5.png" crc="3991592372" ref="entrar"/>
+    <file name="jpg.png" crc="3813548406" seo="true" ref="metade-funcionando">
+      <caption webpage="metade-funcionando" alt="Símbolo JPG"/>
+    </file>
+    <file name="thought-catalog-668984-unsplash158x118.jpg" crc="190699756" seo="true" ref="metade-funcionando">
+      <caption webpage="metade-funcionando" alt="Mulher lendo livro sentada no sofá"/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="metade-funcionando">
+      <caption webpage="metade-funcionando" alt=""/>
+    </file>
+    <file name="estrela2-5.png" crc="405056347" seo="true" ref="donwload">
+      <caption webpage="donwload" alt="estrelas para avaliação"/>
+    </file>
+    <file name="thought-catalog-668984-unsplash.jpg" crc="3986685522" seo="true" ref="donwload">
+      <caption webpage="donwload" alt="Mulher lendo livro no sofá"/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3933185959" seo="true" mt="1526682002052" redirect="true"/>
+  <file name="entrar.html" crc="3957688234" seo="true" mt="1526680861522" redirect="true"/>
+  <file name="cadastro.html" crc="4042327440" seo="true" mt="1526680974984" redirect="true"/>
+  <file name="esqueceu-a-senha.html" crc="75416572" seo="true" mt="1526681049404" redirect="true"/>
+  <file name="confirmação-do-e-mail.html" crc="327677513" seo="true" mt="1526681115423" redirect="true"/>
+  <file name="página-em-construção.html" crc="401719615" seo="true" mt="1526680259896" redirect="true"/>
+  <file name="metade-funcionando.html" crc="126737471" seo="true" mt="1526693917472" redirect="true"/>
+  <file name="donwload.html" crc="281046345" seo="true" mt="1526680713361" redirect="true"/>
+</manifest>
